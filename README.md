@@ -45,4 +45,4 @@ TextUtils was designed to be the go-to tool for anyone who frequently deals with
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/TextUtils.git
+   git clone https://github.com/PavanPawar12/TextUtils.git
